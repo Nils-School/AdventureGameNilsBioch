@@ -1,0 +1,45 @@
+body{
+    margin:0px;
+    padding:none;
+}
+#game-container{
+   background-size: cover;
+   height: 100vh;
+    
+}
+#title{
+    background-color:rgba(112, 112, 112, 0.568);
+    color:rgb(27, 27, 27);
+    text-align:center;
+}
+#description{
+    background-color:rgba(112, 112, 112, 0.568);
+    text-align:center;
+    font-size:30px;
+}
+/* buttons */
+#game-buttons{
+    text-align:center;
+}
+#button1{
+/* margin-top:650px; */
+margin-top:600px;
+background-color:rgba(27, 27, 27, 0.849);
+color:rgb(190, 187, 187);
+font-size:30px;
+}
+#button2{
+    
+    background-color:rgba(27, 27, 27, 0.849);
+    color:rgb(190, 187, 187);
+    font-size:30px;
+}
+#button3{
+    background-color:rgba(27, 27, 27, 0.849);
+    color:rgb(190, 187, 187);
+    font-size:30px;
+}
+#inventoryItem{
+    position: absolute;
+  
+}
